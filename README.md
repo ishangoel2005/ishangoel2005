@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=23&text=Hi,%20I'm%20Ishan%20Goel%20👋👋&fontColor=F7F5F5)
 
-💫 About Me:
+# 💫 About Me:
 <br>
 
 I’m a <strong>Final Year B.Tech Computer Science student at SRM Institute of Science and Technology</strong>, interested in <strong>Artificial Intelligence, Machine Learning, Generative AI and Research & Development</strong>.<br>
@@ -24,3 +24,5 @@ I’m particularly interested in <strong>R&D Opportunities</strong> where I can 
 ![](https://github-readme-stats.shion.dev/api?username=ishangoel2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ishangoel2005&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ishangoel2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=23&fontColor=000000&section=footer)
