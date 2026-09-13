@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Ishan%20Goel👋👋&fontColor=000000
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=23&text=Hi,%20I'm%20Ishan%20Goel%20👋👋&fontColor=F7F5F5)
 
 💫 About Me:
 <br>
