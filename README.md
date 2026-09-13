@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ishan Goel👋👋</h1>
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Ishan%20Goel👋👋&fontColor=000000
 
 💫 About Me:
 <br>
