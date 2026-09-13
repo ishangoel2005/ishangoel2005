@@ -1,7 +1,19 @@
 <h1 align="center">Hi, I'm Ishan Goel👋👋</h1>
-💫 About Me:
-<br><br>I’m a __Final Year B.Tech Computer Science student at SRM Institute of Science and Technology__, interested in **Artificial Intelligence, Machine Learning, Generative AI and Research & Development**.<br><br>Previously, I worked as a **Research Intern at IIIT Allahabad**, where I developed an **Indian Sign Language Recognition System** using Deep Learning, Computer Vision, MediaPipe and MLPs. The work was recognized with a **Best Paper Award at ICAIN-25**, strengthening my interest in Research Driven AI and Experimentation.<br><br>I have experience across **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG, AWS and Intelligent Automation**, with a focus on turning ideas and research concepts into practical solutions for real world problems.<br><br>I’m currently working as a **Systems Engineer Intern at ACL Digital**, where I’m gaining hands on experience in **DevSecOps, Networking, Python Scripting, Kubernetes and Automation Workflows**, while building a stronger understanding of secure and efficient system operations.<br><br>I’m also certified in **SAP Generative AI Development and GitHub Copilot** and continuously exploring emerging AI Technologies, Developer Tools and Modern Approaches to building Intelligent Systems.<br><br>I’m particularly interested in **R&D Opportunities** where I can combine **AI, Software Engineering, Experimentation and  Problem Solving** to work on Innovative and Impactful Technologies.
 
+💫 About Me:
+<br>
+
+I’m a <strong>Final Year B.Tech Computer Science student at SRM Institute of Science and Technology</strong>, interested in <strong>Artificial Intelligence, Machine Learning, Generative AI and Research & Development</strong>.<br>
+
+Previously, I worked as a <strong>Research Intern at IIIT Allahabad</strong>, where I developed an <strong>Indian Sign Language Recognition System</strong> using Deep Learning, Computer Vision, MediaPipe and MLPs. The work was recognized with a <strong>Best Paper Award at ICAIN-25</strong>, strengthening my interest in Research Driven AI and Experimentation.<br>
+
+I have experience across <strong>Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, RAG, AWS and Intelligent Automation</strong>, with a focus on turning ideas and research concepts into practical solutions for <strong>real world problems</strong>.<br>
+
+I’m currently working as a <strong>Systems Engineer Intern at ACL Digital</strong>, where I’m gaining hands on experience in <strong>DevSecOps, Networking, Python Scripting, Kubernetes and Automation Workflows</strong>, while building a stronger understanding of secure and efficient system operations.<br>
+
+I’m also certified in <strong>SAP Generative AI Development and GitHub Copilot</strong> and continuously exploring emerging AI Technologies, Developer Tools and Modern Approaches to building Intelligent Systems.<br>
+
+I’m particularly interested in <strong>R&D Opportunities</strong> where I can combine <strong>AI, Software Engineering, Experimentation and Problem Solving</strong> to work on Innovative and Impactful Technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishangoel2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishangoel2005@gmail.com) 
@@ -12,9 +24,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=ishangoel2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ishangoel2005&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ishangoel2005&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishangoel2005&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishangoel2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
